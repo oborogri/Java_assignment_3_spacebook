@@ -31,3 +31,11 @@ USER INSTRUCTIONS:      In Eclipse
    *    4 runs LeaderBoard.talkative  		(equivalent to MOST TALKATIVE button press)
    *    5 runs LeaderBoard.leastTalkative 	(equivalent to LEAST TALKATIVE button press)
    */
+   
+   Task 1: Sort the logged-in user's inbox by reference to the names of the message senders.
+   
+   Task 2: Sort the logged-in user's conversations with all its friends.
+   
+   Task 3: Sort the Social Leaderboard by reference to the most talkative users.
+   
+   Task 4: Sort the Social Leaderboard by reference to the least talkative users.
